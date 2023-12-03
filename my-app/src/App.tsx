@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {Product} from './components/Product';
-import { products } from './data/products';
+// import { products } from './data/products';
 import axios ,{ AxiosError } from 'axios';
 import { IProduct } from './models';
 

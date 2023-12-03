@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { IProduct } from "../models";
-import { products } from "../data/products";
+// import { products } from "../data/products";
 interface ProductProps{
     product: IProduct
 }
